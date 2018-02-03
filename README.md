@@ -9,7 +9,7 @@ Code editor
 
 ## Built With
 
-* [mmtuts](Upload files and images to website in PHP - PHP tutorial) - https://www.youtube.com/watch?v=JaRq73y5MJk&index=51&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-
+* [mmtuts](Upload files and images to website in PHP - PHP tutorial) - https://www.youtube.com/watch?v=JaRq73y5MJk&list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-&index=51
 
 ## Authors
 
